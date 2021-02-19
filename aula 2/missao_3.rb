@@ -1,11 +1,19 @@
 # Missão 3
 print "Digite o primeiro número inteiro: "
-# .to_i transforma a string em um número inteiro
 number1 = gets.chomp.to_i
 print "Digite o segundo número inteiro: "
+
 number2 = gets.chomp.to_i
-addition = number1 + number2
-multiplication = number1 * number2
-subtraction = number1 - number2
-division = number1 / number2
-puts "O resultado da adição entre os dois números é #{addition} #{multiplication} #{subtraction} #{division}" 
+puts 'Resultado das seguintes opções entre eles'
+
+result = number1 + number2
+puts "Adição = #{result}"
+
+result = number1 - number2
+puts "Subtração = #{result}"
+
+result = number1 * number2
+puts "Multiplicação = #{result}"
+
+result = number1 / number2
+puts "Divisão = #{result}"
