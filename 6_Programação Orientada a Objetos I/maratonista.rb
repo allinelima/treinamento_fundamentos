@@ -3,5 +3,6 @@ class Maratonista
       puts "Percorrendo o circuito"
     end
 end
-
+maratonista = Maratonista.new
+maratonista = Maratonista.new
 maratonista = Maratonista.new
