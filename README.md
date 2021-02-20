@@ -24,7 +24,7 @@ Aula 10 - Projeto Final
 [Aula 7 - Programação Orientada a Objetos II](https://github.com/allinelima/treinamento_fundamentos/tree/desenvolvimento/7_Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20II)  
 [Aula 8 - Ruby Avançado I](https://github.com/allinelima/treinamento_fundamentos/tree/desenvolvimento/8_Ruby%20Avan%C3%A7ado%20I)  
 [Aula 9 - Ruby Avançado II](https://github.com/allinelima/treinamento_fundamentos/tree/desenvolvimento/9_Ruby%20Avan%C3%A7ado%20II)  
-[Aula 10 - Projeto Final]()  
+[Aula 10 - Projeto Final](https://github.com/allinelima/treinamento_fundamentos/tree/desenvolvimento/10_Projeto%20Final)  
 
 # Rodar sem instalar o rub
 
