@@ -1,12 +1,15 @@
-class Dog 
-     attr_accessor :name, :age
-    end
+class Cat 
+     def name
+       @name
+     end
+     
+     def name= name
+       @name = name
+     end
+    End
     
+    cat = Cat.new 
     
-    dog = Dog.new 
+    cat.name ='Morpheus'
     
-    dog.name = 'Marlon'
-    puts dog.name
-    
-    dog.age = '1 ano'
-    puts dog.age
+    puts cat.name

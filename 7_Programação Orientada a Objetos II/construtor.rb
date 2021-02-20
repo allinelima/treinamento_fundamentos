@@ -11,4 +11,4 @@ class Person
      end
     end
     
-    Person.new('João', 12).check
+    Person.new('Carla', 12).check
